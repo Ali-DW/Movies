@@ -1,0 +1,40 @@
+.movie-details {
+    background-color: #f5f5dc; /* Beige background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.movie-details h2 {
+    color: #8b4513; /* SaddleBrown color */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.movie-details p {
+    color: #5a3e36; /* Darker brown color */
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.movie-details strong {
+    color: #8b4513; /* SaddleBrown color */
+}
+
+.movie-details .btn-primary {
+    background-color: #8b4513; /* SaddleBrown color */
+    border-color: #8b4513;
+    font-size: 1.2rem;
+    margin: 3px;
+}
+
+.movie-details .btn-primary:hover {
+    background-color: #a0522d; /* Sienna color */
+    border-color: #a0522d;
+}
+
+.movie-details img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
