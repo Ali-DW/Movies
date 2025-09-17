@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Movies/static/css/main.78239f55.css",
-    "main.js": "/Movies/static/js/main.ee259bcb.js",
+    "main.css": "/Movies/static/css/main.acbdcd5c.css",
+    "main.js": "/Movies/static/js/main.b5946828.js",
+    "static/media/Talal poster.jpg": "/Movies/static/media/Talal poster.3656f347ff5221696325.jpg",
+    "static/media/Talal logo.jpg": "/Movies/static/media/Talal logo.ec4a90d1f4fbec3c9c40.jpg",
     "index.html": "/Movies/index.html",
-    "main.78239f55.css.map": "/Movies/static/css/main.78239f55.css.map",
-    "main.ee259bcb.js.map": "/Movies/static/js/main.ee259bcb.js.map"
+    "main.acbdcd5c.css.map": "/Movies/static/css/main.acbdcd5c.css.map",
+    "main.b5946828.js.map": "/Movies/static/js/main.b5946828.js.map"
   },
   "entrypoints": [
-    "static/css/main.78239f55.css",
-    "static/js/main.ee259bcb.js"
+    "static/css/main.acbdcd5c.css",
+    "static/js/main.b5946828.js"
   ]
 }
